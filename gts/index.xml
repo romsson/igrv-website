@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Groupes de travail | GdR IG-RV</title><link>https://gdr-igrv.github.io/igrv-website/gts/</link><atom:link href="https://gdr-igrv.github.io/igrv-website/gts/index.xml" rel="self" type="application/rss+xml"/><description>Groupes de travail</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 21 Jun 2021 00:00:00 +0000</lastBuildDate><image><url>https://gdr-igrv.github.io/igrv-website/media/icon_hu6ab350bd9da14bf3d770a252e9dc8f37_21017_512x512_fill_lanczos_center_2.png</url><title>Groupes de travail</title><link>https://gdr-igrv.github.io/igrv-website/gts/</link></image><item><title>Groupe de travail "Animation &amp; Simulation" (GT-AS)</title><link>https://gdr-igrv.github.io/igrv-website/gts/gt-as/</link><pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate><guid>https://gdr-igrv.github.io/igrv-website/gts/gt-as/</guid><description>&lt;p>L’animation et la simulation s’intéressent à la modélisation du
+mouvement en informatique graphique et réalité virtuelle avec deux
+points de vue très actifs et complémentaires : 1/ la modélisation et
+synthèse du mouvement et 2/ son analyse. Dans notre domaine, mouvement
+signifie le déplacement des objets, mais aussi leur déformation,
+lorsqu’il s’agit d’objets “mous” par exemple, ou d’objets articulés
+comme des personnages, et leurs transformations au cours du temps
+(rupture, fracture, recombinaison&amp;hellip;).&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Responsables&lt;/strong>: Nicolas Castagné (ICA, Grenoble) et Caroline Larboulette (IRISA, Univ. Bretagne Sud)&lt;/li>
+&lt;li>&lt;strong>Mots-clés&lt;/strong> : Animation, simulation, image et temps, synthèse et capture du mouvement, modèles comportementaux, modèles physiques &amp;hellip;&lt;/li>
+&lt;/ul></description></item><item><title>Groupe de travail "Géométrie discrète &amp; morphologie mathématique" (GT-GDMM)</title><link>https://gdr-igrv.github.io/igrv-website/gts/gt-gdmm/</link><pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate><guid>https://gdr-igrv.github.io/igrv-website/gts/gt-gdmm/</guid><description>&lt;ul>
+&lt;li>&lt;strong>Site&lt;/strong> : &lt;a href="http://gt-gdmm.u-bordeaux.fr">http://gt-gdmm.u-bordeaux.fr&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Responsables&lt;/strong> : Isabelle Sivignon (GIPSA-Lab, Grenoble) et Nicolas Passat (CReSTIC, Reims)&lt;/li>
+&lt;li>&lt;strong>Mots-clés&lt;/strong> : Géométrie discrète, morphologie mathématique, topologies discrète et digitale, imagerie discrète, graphes.&lt;/li>
+&lt;/ul></description></item><item><title>Groupe de travail "modélisation géométrique" (GT-MG)</title><link>https://gdr-igrv.github.io/igrv-website/gts/gt-mg/</link><pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate><guid>https://gdr-igrv.github.io/igrv-website/gts/gt-mg/</guid><description>&lt;p>&lt;img src="logo-gt-mg.png" alt="">&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Site&lt;/strong> : &lt;a href="http://gtmg.u-bourgogne.fr/">http://gtmg.u-bourgogne.fr/&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Responsables&lt;/strong> : Géraldine Morin (IRIT, Toulouse) et Romain Raffin (LIS, Marseille)&lt;/li>
+&lt;li>&lt;strong>Mots-clés&lt;/strong> : Courbes, surfaces, maillages, formes 3D, nuage de points, reconstruction, contraintes, déformation, multirésolution, paramétrisation, apprentissage artificiel, géométrie différentielle, algorithmes de subdivision, topologie. axe médian, squelette.&lt;/li>
+&lt;/ul></description></item><item><title>Groupe de travail "Rendu" (GT-rendu)</title><link>https://gdr-igrv.github.io/igrv-website/gts/gt-rendu/</link><pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate><guid>https://gdr-igrv.github.io/igrv-website/gts/gt-rendu/</guid><description>&lt;ul>
+&lt;li>&lt;strong>Site&lt;/strong> : &lt;a href="http://gtrendu.blogspot.fr/">http://gtrendu.blogspot.fr/&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Responsable&lt;/strong> : Romain Vergne (LJK, Grenoble)&lt;/li>
+&lt;li>&lt;strong>Mots-clés&lt;/strong> : rendu photo réaliste, simulation de l’éclairage et d’effets lumineux, rendu inverse, rendu expressif, rendu artistique, réalité augmentée, rendu temps réel, rendu basé image.&lt;/li>
+&lt;/ul></description></item><item><title>Groupe de travail "Réalités virtuelles" (GT-RV)</title><link>https://gdr-igrv.github.io/igrv-website/gts/gt-rv/</link><pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate><guid>https://gdr-igrv.github.io/igrv-website/gts/gt-rv/</guid><description>&lt;ul>
+&lt;li>&lt;strong>Responsables&lt;/strong> : Pierre Chevaillier (Lab-STICC/CERV, ENIB, Brest), Laure Leroy (Paris 8)&lt;/li>
+&lt;li>&lt;strong>Mots-clés&lt;/strong> : réalité virtuelle, réalité augmentée, interaction 3D, métaphores, interfaces, multimodalité, perception, cognition, motricité, comportement, immersion, présence, usages, acceptabilité&lt;/li>
+&lt;/ul></description></item><item><title>Groupe de travail "Visualisation" (GT-Visu)</title><link>https://gdr-igrv.github.io/igrv-website/gts/gt-visu/</link><pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate><guid>https://gdr-igrv.github.io/igrv-website/gts/gt-visu/</guid><description>&lt;ul>
+&lt;li>&lt;strong>Responsables&lt;/strong> : Julien Tierny (LIP6, Paris) et Romain Vuillemot (LIRIS, Lyon)&lt;/li>
+&lt;li>&lt;strong>Mots-clés&lt;/strong> : Visualisation scientifique, visualisation d’informations, Visual Analytics, Visual Data Mining, visualisation in-situ, High Performance Visualization, interactions visuelles, visualisation d&amp;rsquo;informations incertaines.&lt;/li>
+&lt;/ul></description></item></channel></rss>
